@@ -1,0 +1,12 @@
+.header__logo-link {
+  width: 135px;
+  height: 30px;
+  margin: 16px 0 16px 20px;
+  flex-shrink: 0;
+}
+
+@media (min-width: 768px) {
+  .header__logo-link {
+    margin: 25px 50px 25px 0;
+  }
+}

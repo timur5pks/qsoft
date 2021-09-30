@@ -1,0 +1,11 @@
+.header__profile-name {
+  margin: 0;
+  color: #768298;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: 400;
+}
+
+.header__profile-name:hover {
+  cursor: pointer;
+}

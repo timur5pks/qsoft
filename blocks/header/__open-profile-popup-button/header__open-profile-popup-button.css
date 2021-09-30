@@ -1,0 +1,17 @@
+.header__open-profile-popup-button {
+  background-color: transparent;
+  border: none;
+  width: 24px;
+  height: 24px;
+  margin: 21px 20px 17px;
+  background-image: url(../../../images/button_open_profile-popup.svg);
+  background-size: 16px 18px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@media (min-width: 768px) {
+  .header__open-profile-popup-button {
+    display: none;
+  }
+}

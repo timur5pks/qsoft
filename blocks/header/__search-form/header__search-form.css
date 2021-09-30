@@ -1,0 +1,11 @@
+@media (max-width: 767px) {
+  .header__search-form {
+    border-top: 1px solid #ebebf1;
+  }
+}
+
+@media (min-width: 768px) {
+  .header__search-form {
+    align-self: center;
+  }
+}

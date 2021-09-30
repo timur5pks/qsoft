@@ -1,0 +1,13 @@
+.header__container {
+  max-width: 1170px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+@media (min-width: 768px) {
+  .header__container {
+    width: calc(100% - 40px);
+    flex-wrap: nowrap;
+  }
+}

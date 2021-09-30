@@ -1,0 +1,14 @@
+.partners__title {
+  margin: 0 0 30px;
+  font-size: 28px;
+  line-height: 45px;
+  font-weight: 500;
+  text-transform:uppercase;
+}
+
+@media (min-width: 1046px) {
+  .partners__title {
+    font-size: 36px;
+    line-height: 58px;
+  }
+}

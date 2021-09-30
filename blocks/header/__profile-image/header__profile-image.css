@@ -1,0 +1,10 @@
+.header__profile-image {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  border-radius: 50%;
+}
+
+.header__profile-image:hover {
+  cursor: pointer;
+}
